@@ -1,0 +1,11 @@
+{
+  "name": "Notion Snippets Saver",
+  "description": "A browser extension to save snippets in Notion",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "action": {
+    "default_title": "Svelte Extension",
+    "default_icon": "favicon.png",
+    "default_popup": "index.html"
+  }
+}
